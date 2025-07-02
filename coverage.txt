@@ -1,0 +1,6 @@
+Name                        Stmts   Miss  Cover
+-----------------------------------------------
+librodiario.py                 33      3    91%
+tests\test_librodiario.py      36      1    97%
+-----------------------------------------------
+TOTAL                          69      4    94%
