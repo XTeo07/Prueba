@@ -17,3 +17,10 @@
 2025-07-02 18:22:01,960 - INFO - Transacción registrada: ingreso - 500
 2025-07-02 18:22:01,960 - INFO - Transacción registrada: egreso - 200
 2025-07-02 18:22:01,960 - ERROR - Tipo de transacción inválido: otro
+2025-07-02 18:33:55,185 - ERROR - Monto negativo no permitido: -50
+2025-07-02 18:33:55,185 - ERROR - Tipo de transacción inválido: otro
+2025-07-02 18:33:55,185 - INFO - Transacción registrada: ingreso - 100
+2025-07-02 18:33:55,185 - INFO - Transacción registrada: ingreso - 200
+2025-07-02 18:33:55,185 - INFO - Transacción registrada: egreso - 100
+2025-07-02 18:33:55,185 - INFO - Transacción registrada: ingreso - 300.0
+2025-07-02 18:33:55,185 - INFO - Transacción registrada: egreso - 150.0
