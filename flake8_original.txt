@@ -1,0 +1,5 @@
+librodiario.py:6:80: E501 line too long (125 > 79 characters)
+librodiario.py:8:1: E302 expected 2 blank lines, found 1
+librodiario.py:19:1: E302 expected 2 blank lines, found 1
+librodiario.py:29:80: E501 line too long (82 > 79 characters)
+librodiario.py:30:80: E501 line too long (80 > 79 characters)
